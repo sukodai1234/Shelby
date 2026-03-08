@@ -1,0 +1,1 @@
+The core package contains environment agnostic types and functions that can be used to interact with the Shelby network. This shared package will typically contain the types and functions that are shared between the Node.js and browser environments.
